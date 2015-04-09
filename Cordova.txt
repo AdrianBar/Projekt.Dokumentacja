@@ -1,0 +1,5 @@
+Co to jest?
+Apache Cordova to projekt typu open source, umo¿liwiaj¹cy dostêp do natywnych interfejsów API urz¹dzeñ (aparatu, geolokalizacji, skanera kodów kreskowych itd.), które nie s¹ jeszcze dostêpne dla przegl¹darek, daj¹cy tak¿e mo¿liwoœæ tworzenia aplikacji mobilnych dla ka¿dego du¿ego sklepu z aplikacjami.
+
+Cordova a PhoneGap
+Cordova i PhoneGap s¹ bardzo podobnymi do siebie frameworkami. Adobe PhoneGap jest dystrybucj¹ Cordovy, która dodatkowo zapewnia integracje z narzêdziami od Adobe np.: PhoneGap Build i Adobe Shadow. Apache Cordova otrzymuje aktualizacje nieco szybciej oraz ma nieco prostszy interfejs oraz nie jest zintegrowany z us³ugami Adobe. 
